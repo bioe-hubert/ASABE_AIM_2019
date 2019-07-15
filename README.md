@@ -12,7 +12,7 @@ The code runs on GNU Octave and the MathWorks MATLAB.
 * Paper Number: 1901376. `Some Considerations on the Modeling of Flow and Transport in Heterogeneous Environments`, by: Hubert Montas and Adel Shirmohammadi. University of Maryland at College Park.
 
 The corresponding manuscripts, that describe the research in which the codes were used, should
-be available at the [ASABE Technical Online Library]().
+be available at the [ASABE Technical Online Library](https://elibrary.asabe.org).
 
 
 
